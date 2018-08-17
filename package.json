@@ -1,0 +1,25 @@
+{
+  "name": "to-number",
+  "version": "1.0.0",
+  "description": "what you input will be transform into a number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup develop.js --file index.js --format umd --name 'xxx'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yegao/to-number.git"
+  },
+  "keywords": [
+    "number",
+    "input",
+    "to"
+  ],
+  "author": "ygg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yegao/to-number/issues"
+  },
+  "homepage": "https://github.com/yegao/to-number#readme"
+}
